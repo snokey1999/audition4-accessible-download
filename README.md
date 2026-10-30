@@ -5,7 +5,7 @@ Public distribution mirror for the Audition 4.0 accessible edition package.
 ## Release
 
 - Version: `4.0-2026.10.30`
-- File: `Audition4-Accessible-2026.zip`
+- File: `Audition.4.0.2026.zip`
 - Size: `163,056,898` bytes
 - SHA-256: `6A599A45F92CA2CA02722C305B3B0E630535155B1DDDE142FFDC32A1577BDBBF`
 - Release page: <https://github.com/snokey1999/audition4-accessible-download/releases/tag/v4.0-2026.10.30>
