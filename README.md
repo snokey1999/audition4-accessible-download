@@ -1,6 +1,6 @@
 # Audition 4.0 Accessible Edition
 
-Private distribution repository for the Audition 4.0 accessible edition package.
+Public distribution mirror for the Audition 4.0 accessible edition package.
 
 ## Release
 
@@ -10,9 +10,8 @@ Private distribution repository for the Audition 4.0 accessible edition package.
 - SHA-256: `6A599A45F92CA2CA02722C305B3B0E630535155B1DDDE142FFDC32A1577BDBBF`
 - Release page: <https://github.com/snokey1999/audition4-accessible-download/releases/tag/v4.0-2026.10.30>
 
-The release asset is stored in a private repository. Anonymous visitors cannot
-download it without repository access. The public website should use the
-domestic download mirror rather than this private asset URL.
+The release asset can be read anonymously and is the source used to generate
+the domestic download mirror.
 
 ## Installation
 
